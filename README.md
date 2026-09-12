@@ -1,6 +1,6 @@
 # Acer Battery GUI
 
-A native, lightweight GTK3 graphical interface for managing Acer battery settings (Health Mode and Calibration) via the [RKKDR](https://github.com/ItsMe-RiiK/RKKDR) Linux kernel module.
+A native, lightweight GTK3 graphical interface for managing Acer battery settings (Health Mode and Calibration) via the [RKKDR](https://github.com/RiiK26/RKKDR) Linux kernel module.
 
 
 ## Features
@@ -21,7 +21,7 @@ To compile and run this application, you must have the following installed on yo
 
 1. **Clone the project**:
    ```bash
-   git clone https://github.com/ItsMe-RiiK/AcerBattery.git
+   git clone https://github.com/RiiK26/AcerBattery.git
    cd AcerBattery
    ```
 2. **Run the installation script**:
