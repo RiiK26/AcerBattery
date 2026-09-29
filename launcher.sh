@@ -14,7 +14,7 @@ echo "--- Development Source Tree Mode ---"
 RELEASE_DIR="build/release"
 BINARY="$PWD/$RELEASE_DIR/Battery"
 
-# 3. Check autoclicker binary
+# 3. Check Acer Battery binary
 if [ ! -f "$BINARY" ]; then
     echo "Binary not found, compiling GUI..."
     make
